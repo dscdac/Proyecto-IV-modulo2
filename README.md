@@ -10,8 +10,10 @@ Entrando en detalle, la plataforma consistiría en un sitio web donde es necesar
 Cada evento especifica dentro de sí todos sus detalles y al tipo de público al que va dirigido, además de mostrar los participantes que asistirían y los comentarios que se han hecho al respecto sobre el mismo.
 Debido a la naturaleza de la plataforma, orientada mayormente al campo abierto, se pretende hacer uso de integración con mapas, posibilitando así funcionalidades como ver rutas, compartirlas, etc...
 
-Además , la plataforma actuará como una especia de red social, siendo capaz cada usuario de tener su red de amigos, así como de permanecer en contacto con estos por mensajería.
+Además, la plataforma actuará como una especia de red social, siendo capaz cada usuario de tener su red de amigos, así como de permanecer en contacto con estos por mensajería.
 
 ## Descripción del Módulo 2
 
 Este módulo se encargará del front-end de la página web. Será una aplicación de página única (Single-page application) que empleará javascript para mostrar las diferentes vistas y las validaciones de los datos
+Vamos a emplear solo una página sobre la que cambian las diferentes vistas mediantes eventos controlados por javascript. Las validaciones en los formularios y las llamadas al servidor también son controladas mediante javascript.
+
